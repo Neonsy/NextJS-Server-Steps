@@ -36,3 +36,4 @@ This is the second repository on my [learning journey](https://github.com/Neonsy
 This is the order in which I'm learning, and I'll be updating this as I learn more:
 
 1. [Introduction](/Notes/01-Introduction.md)
+2. [Getting Started](/Notes/02-Getting-Started.md)
