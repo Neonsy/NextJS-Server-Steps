@@ -34,3 +34,5 @@ This is the second repository on my [learning journey](https://github.com/Neonsy
 ## Learning Journey
 
 This is the order in which I'm learning, and I'll be updating this as I learn more:
+
+1. [Introduction](/Notes/01-Introduction.md)
