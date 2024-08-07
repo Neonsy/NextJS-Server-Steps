@@ -38,3 +38,4 @@ This is the order in which I'm learning, and I'll be updating this as I learn mo
 1. [Introduction](/Notes/01-Introduction.md)
 2. [Getting Started](/Notes/02-Getting-Started.md)
 3. [Project Structure](/Notes/03-Project-Structure.md)
+4. [RSC Overview](/Notes/04-RSC-Overview.md)
