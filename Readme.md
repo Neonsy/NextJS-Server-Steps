@@ -42,3 +42,4 @@ This is the order in which I'm learning, and I'll be updating this as I learn mo
 5. [Routing](/Notes/05-Routing.md)
    1. [Nested Routing](/Notes/06-Nested-Routing.md)
    2. [Dynamic Routing](/Notes/07-Dynamic-Routing.md)
+   3. [Nested Dynamic Routing](/Notes/08-Nested-Dynamic-Routing.md)
