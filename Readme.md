@@ -40,3 +40,4 @@ This is the order in which I'm learning, and I'll be updating this as I learn mo
 3. [Project Structure](/Notes/03-Project-Structure.md)
 4. [RSC Overview](/Notes/04-RSC-Overview.md)
 5. [Routing](/Notes/05-Routing.md)
+   1. [Nested Routing](/Notes/06-Nested-Routing.md)
