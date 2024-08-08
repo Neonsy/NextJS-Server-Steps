@@ -43,3 +43,4 @@ This is the order in which I'm learning, and I'll be updating this as I learn mo
    1. [Nested Routing](/Notes/06-Nested-Routing.md)
    2. [Dynamic Routing](/Notes/07-Dynamic-Routing.md)
    3. [Nested Dynamic Routing](/Notes/08-Nested-Dynamic-Routing.md)
+   4. [Catch all Segments](/Notes/09-Catch-All-Segments.md)
