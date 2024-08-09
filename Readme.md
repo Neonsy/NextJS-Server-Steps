@@ -13,23 +13,23 @@ This is the second repository on my [learning journey](https://github.com/Neonsy
 
 ## What else do I want to learn or combine?
 
--   [ReactQuery](https://github.com/TanStack/query)
--   [NextAuth](https://github.com/nextauthjs/next-auth)
--   [TypeScript](https://github.com/microsoft/TypeScript)
--   [TRPC](https://github.com/trpc/trpc)
--   [Drizzle](https://github.com/drizzle-team/drizzle-orm)
--   [ShadcnUI](https://github.com/shadcn-ui/ui)
--   [Tailwind](https://github.com/tailwindlabs/tailwindcss)
+- [ReactQuery](https://github.com/TanStack/query)
+- [NextAuth](https://github.com/nextauthjs/next-auth)
+- [TypeScript](https://github.com/microsoft/TypeScript)
+- [TRPC](https://github.com/trpc/trpc)
+- [Drizzle](https://github.com/drizzle-team/drizzle-orm)
+- [ShadcnUI](https://github.com/shadcn-ui/ui)
+- [Tailwind](https://github.com/tailwindlabs/tailwindcss)
 
 ### Other things I want to learn
 
--   [Astro](https://github.com/withastro/astro)
--   [SolidJS](https://github.com/solidjs/solid)
--   [SolidStart](https://github.com/solidjs/solid-start)
--   [Qwik](https://github.com/BuilderIO/qwik)
--   [QwikCity](https://qwik.dev/docs/qwikcity/)
--   [Svelte](https://github.com/sveltejs/svelte)
--   [SvelteKit](https://github.com/sveltejs/kit)
+- [Astro](https://github.com/withastro/astro)
+- [SolidJS](https://github.com/solidjs/solid)
+- [SolidStart](https://github.com/solidjs/solid-start)
+- [Qwik](https://github.com/BuilderIO/qwik)
+- [QwikCity](https://qwik.dev/docs/qwikcity/)
+- [Svelte](https://github.com/sveltejs/svelte)
+- [SvelteKit](https://github.com/sveltejs/kit)
 
 ## Learning Journey
 
@@ -40,12 +40,13 @@ This is the order in which I'm learning, and I'll be updating this as I learn mo
 3. [Project Structure](/Notes/03-Project-Structure.md)
 4. [RSC Overview](/Notes/04-RSC-Overview.md)
 5. [Routing](/Notes/05-Routing.md)
-    1. [Nested Routing](/Notes/06-Nested-Routing.md)
-    2. [Dynamic Routing](/Notes/07-Dynamic-Routing.md)
-    3. [Nested Dynamic Routing](/Notes/08-Nested-Dynamic-Routing.md)
-    4. [Catch all Segments](/Notes/09-Catch-All-Segments.md)
+   1. [Nested Routing](/Notes/06-Nested-Routing.md)
+   2. [Dynamic Routing](/Notes/07-Dynamic-Routing.md)
+   3. [Nested Dynamic Routing](/Notes/08-Nested-Dynamic-Routing.md)
+   4. [Catch all Segments](/Notes/09-Catch-All-Segments.md)
 6. [Customize Not Found](/Notes/10-Customize-Not-Found.md)
 7. [Organizing Files](/Notes/11-Organizing-Files.md)
 8. [Layouts](/Notes/12-Layouts.md)
    1. [Layout Nesting](/Notes/13-Layout-Nesting.md)
    2. [Layout Grouping](/Notes/14-Layout-Groups.md)
+9. [Route Metadata](/Notes/15-Route-Metadata.md)
