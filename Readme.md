@@ -46,3 +46,4 @@ This is the order in which I'm learning, and I'll be updating this as I learn mo
     4. [Catch all Segments](/Notes/09-Catch-All-Segments.md)
 6. [Customize Not Found](/Notes/10-Customize-Not-Found.md)
 7. [Organizing Files](/Notes/11-Organizing-Files.md)
+8. [Layouts](/Notes/12-Layouts.md)
