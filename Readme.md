@@ -53,3 +53,4 @@ This is the order in which I'm learning, and I'll be updating this as I learn mo
    - [Title Object](/Notes/16-Title-Object.md)
 10. [Links](/Notes/17-Links.md)
     1. [Active Links](/Notes/18-Active-Links.md)
+    2. [Navigating Programmatically (Redirects)](/Notes/19-Navigating-Programmatically.md)
