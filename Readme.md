@@ -50,3 +50,4 @@ This is the order in which I'm learning, and I'll be updating this as I learn mo
    1. [Layout Nesting](/Notes/13-Layout-Nesting.md)
    2. [Layout Grouping](/Notes/14-Layout-Groups.md)
 9. [Route Metadata](/Notes/15-Route-Metadata.md)
+   - [Title Object](/Notes/16-Title-Object.md)
