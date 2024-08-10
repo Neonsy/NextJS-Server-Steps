@@ -61,4 +61,5 @@ This is the order in which I'm learning, and I'll be updating this as I learn mo
     2. [Nested Error Handling](/Notes/24-Nested-Error-Handling.md)
     3. [Errors In Layouts](/Notes/25-Errors-In-Layouts.md)
 14. [Parallel Routes](/Notes/26-Parallel-Routes.md)
-    1.  [Unmatched Routes](/Notes/27-Unmatched-Routes.md)
+    1. [Unmatched Routes](/Notes/27-Unmatched-Routes.md)
+15. [Intercepting Routes](/Notes/28-Intercepting-Routes.md)
