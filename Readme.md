@@ -59,3 +59,4 @@ This is the order in which I'm learning, and I'll be updating this as I learn mo
 13. [Error Handling](/Notes/22-Error-Handling.md)
     1.  [Error Resetting](/Notes/23-Error-Resetting.md)
     2.  [Nested Error Handling](/Notes/24-Nested-Error-Handling.md)
+    3.  [Errors In Layouts](/Notes/25-Errors-In-Layouts.md)
