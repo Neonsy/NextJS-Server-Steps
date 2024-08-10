@@ -56,3 +56,4 @@ This is the order in which I'm learning, and I'll be updating this as I learn mo
     2. [Navigating Programmatically (Redirects)](/Notes/19-Navigating-Programmatically.md)
 11. [Templates](/Notes/20-Templates.md)
 12. [Loading UI](/Notes/21-Loading-UI.md)
+13. [Error Handling](/Notes/22-Error-Handling.md)
