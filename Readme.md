@@ -70,3 +70,4 @@ This is the order in which I'm learning, and I'll be updating this as I learn mo
     4. [URL Query Params](/Notes/33-URL-Query-Params.md)
     5. [Headers](/Notes/34-Headers.md)
     6. [Cookies](/Notes/35-Cookies.md)
+    7. [Caching](/Notes/36-Caching.md)
