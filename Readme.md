@@ -66,3 +66,4 @@ This is the order in which I'm learning, and I'll be updating this as I learn mo
 16. [Route Handlers](/Notes/29-Route-Handlers.md)
     1. [GET Route Handlers](/Notes/30-GET-Route-Handlers.md)
     2. [POST Route Handlers](/Notes/31-POST-Route-Handlers.md)
+    3. [Dynamic Route Handlers](/Notes/32-Dynamic-Route-Handlers.md)
