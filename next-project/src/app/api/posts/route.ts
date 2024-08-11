@@ -1,6 +1,19 @@
+import { NextRequest } from 'next/server';
 import { postData } from './posts';
 
-export function GET() {
+export function GET(request: NextRequest) {
+    const query = request.nextUrl.searchParams;
+
+    const searchTerm = query.get('search');
+
+    if (searchTerm) {
+        const filteredPosts = postData.filter((post) => post.content.includes(searchTerm));
+
+        return new Response(JSON.stringify(filteredPosts), {
+            headers: { 'Content-Type': 'application/json' },
+        });
+    }
+
     return new Response(JSON.stringify(postData), {
         headers: { 'Content-Type': 'application/json' },
     });
