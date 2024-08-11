@@ -64,3 +64,4 @@ This is the order in which I'm learning, and I'll be updating this as I learn mo
     1. [Unmatched Routes](/Notes/27-Unmatched-Routes.md)
 15. [Intercepting Routes](/Notes/28-Intercepting-Routes.md)
 16. [Route Handlers](/Notes/29-Route-Handlers.md)
+    1. [GET Route Handlers](/Notes/30-GET-Route-Handlers.md)
