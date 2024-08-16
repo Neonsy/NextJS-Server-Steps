@@ -81,3 +81,4 @@ This is the order in which I'm learning, and I'll be updating this as I learn mo
 20. [Server Only Code](/Notes/44-Server-Only-Code.md)
 21. [Context Provider](/Notes/45-Context-Provider.md)
 22. [Client Only Code](/Notes/46-Client-Only-Code.md)
+23. [Client Component Placement](/Notes/47-Client-Component-Placement.md)
