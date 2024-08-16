@@ -74,3 +74,4 @@ This is the order in which I'm learning, and I'll be updating this as I learn mo
 17. [Middlewares](/Notes/37-Middlewares.md)
 18. [Server and Client Components](/Notes/38-Server-and-Client-Components.md)
 19. [Rendering Lifecycle](/Notes/39-Rendering-Lifecycle.md)
+    1. [Static Rendering](/Notes/40-Static-Rendering.md)
