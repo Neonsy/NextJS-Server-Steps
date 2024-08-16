@@ -72,3 +72,4 @@ This is the order in which I'm learning, and I'll be updating this as I learn mo
     6. [Cookies](/Notes/35-Cookies.md)
     7. [Caching](/Notes/36-Caching.md)
 17. [Middlewares](/Notes/37-Middlewares.md)
+18. [Server and Client Components](/Notes/38-Server-and-Client-Components.md)
