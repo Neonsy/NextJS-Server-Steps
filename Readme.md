@@ -87,3 +87,4 @@ This is the order in which I'm learning, and I'll be updating this as I learn mo
     1. [Loading and Error State](/Notes/50-Loading-and-Error-State.md)
     2. [Caching](/Notes/51-Caching.md)
     3. [Request Memoization](/Notes/52-Request-Memoization.md)
+    4. [Time Based Data Revalidation](/Notes/53-Time-Based-Data-Revalidation.md)
