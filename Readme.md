@@ -86,3 +86,4 @@ This is the order in which I'm learning, and I'll be updating this as I learn mo
 20. [Data Fetching](/Notes/49-Data-Fetching.md)
     1. [Loading and Error State](/Notes/50-Loading-and-Error-State.md)
     2. [Caching](/Notes/51-Caching.md)
+    3. [Request Memoization](/Notes/52-Request-Memoization.md)
