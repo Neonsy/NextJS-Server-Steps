@@ -8,9 +8,6 @@
 In this repository, I'll be learning about NextJS 14, due to 15 still being in beta (RC).
 This is the second repository on my [learning journey](https://github.com/Neonsy/React-First-Steps), where I'm diving into the Backend-World of JavaScript.
 
-> [!NOTE]
-> This repository is still in development, and will be updated as I learn more.
-
 ## What else do I want to learn or combine?
 
 -   [ReactQuery](https://github.com/TanStack/query)
