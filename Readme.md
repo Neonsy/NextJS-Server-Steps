@@ -84,3 +84,4 @@ This is the order in which I'm learning, and I'll be updating this as I learn mo
         4. [Client Component Placement](/Notes/47-Client-Component-Placement.md)
         5. [Interleaving Components](/Notes/48-Interleaving-Components.md)
 20. [Data Fetching](/Notes/49-Data-Fetching.md)
+    1. [Loading and Error State](/Notes/50-Loading-and-Error-State.md)
